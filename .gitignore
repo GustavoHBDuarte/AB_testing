@@ -131,3 +131,6 @@ dmypy.json
 
 # csv files
 *.csv
+
+# Github token
+token.txt
