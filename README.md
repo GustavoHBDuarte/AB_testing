@@ -43,9 +43,6 @@ dados coletados experimentalmente.</font></p>
 <h1>3- Data description</h1>
 
 <br>
-  <font size="3">Text here</font></li>
-<br>
-<br>
 <ol>
    <li><font size="3"><i>Evaluating conversion rate</i>
      <br><br>O conjunto de dados tabular utilizado para a avaliação da receita bruta possui os seguintes descritores:<br></font></li><br>
