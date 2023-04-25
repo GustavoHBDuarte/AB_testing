@@ -108,6 +108,7 @@ dados coletados experimentalmente.</font></p>
   <li><font size="3">Welch's test</font></li><br>
   <li><font size="3">t test</font></li><br>
   <li><font size="3">t test unequal variances</font></li><br>
+  <li><font size="3">DeltaLognormal DataTest</font></li><br>
 </ul>
 </ol>    
     
@@ -119,8 +120,8 @@ dados coletados experimentalmente.</font></p>
 <br>
 <ol>
    <li><font size="3"><i>Evaluating conversion rate</i>
-     <br><br>TEXT HERE.<br></font></li>
-    <p><font size="3">TEXT HERE.</font></p>
+     <br><br>A figura abaixo mostra os resultados para a avaliação da taxa de conversão sob o ponto de vista do teste frequentista (chi-square) e do teste bayesiano (binário). Os respectivos testes foram aplicados ao mesmo conjunto de dados à medida em que se foi avançando no tempo de experimento (eixo y) e o tamanho amostral foi aumentando.<br></font></li>
+    <p><font size="3">Do ponto de vista do teste chi-quadrado não foi possível observar um valor de p significativo com o avançar do tempo do experimento, enquanto que no teste bayesiano é possível, em alguns dias antes do experimento ser concluído, notar que a página B desafiante não possui desempenho melhor que a página A do ponto de vista da taxa de conversão, dessa forma seria possível encerrar o experimento em um tempo menor comparado ao teste frequentista, poupando recursos para a organização.</font></p>
 
 <img src="https://drive.google.com/uc?export=view&id=1iF1x4nqH1id81ihulq-zSiHCq5j98yyM" style="width: 650px; max-width: 100%; height: auto" title="Click to enlarge picture" />   
    
