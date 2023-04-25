@@ -117,9 +117,23 @@ dados coletados experimentalmente.</font></p>
 <h1>6- Results</h1>
 
 <br>
+<ol>
+   <li><font size="3"><i>Evaluating conversion rate</i>
+     <br><br>TEXT HERE.<br></font></li>
+    <p><font size="3">TEXT HERE.</font></p>
+
+<img src="https://drive.google.com/uc?export=view&id=1iF1x4nqH1id81ihulq-zSiHCq5j98yyM" style="width: 650px; max-width: 100%; height: auto" title="Click to enlarge picture" />   
+   
+    
+    
+    
+  <li><font size="3"><i>Evaluating gross revenue</i>
+     <br><br>TEXT HERE.<br></font></li>
+    <p><font size="3">TEXT HERE.</font></p>
+</ol>
 
 
-
+<img src="https://drive.google.com/uc?export=view&id=1Z0MvOtofB10ciZtfBLmcdfxT6TO8ZUbn" style="width: 650px; max-width: 100%; height: auto" title="Click to enlarge picture" />
 
 
 
