@@ -30,11 +30,11 @@ In this project, A/B testing will be applied to evaluate two distinct scenarios:
 <br>
 <p><font size="3">The following are some of the key assumptions for A/B testing.</font></p></br>
 <ol>
-  <li><font size="3">Random assignment: Participants in the A/B test must be randomly assigned to either the control group (version A) or the treatment group (version B) to ensure that the groups are comparable in terms of their characteristics.</font></li><br>
+  <li><font size="3">Random assignment: Participants in the A/B test must be randomly assigned to either the control group (version A) or the treatment group (version B) to ensure that the groups are comparable in terms of their characteristics. Non-group related variables must be stratified across the study.</font></li><br>
   <li><font size="3">Large sample size: The larger the sample size, the more reliable the results of the A/B test will be. A larger sample size also helps to reduce the impact of outliers or random fluctuations in the data.</font></li><br>
   <li><font size="3">Independence of observations: The observations in the A/B test should be independent of each other, meaning that the behavior of one participant should not influence the behavior of another participant.</font></li><br>
   <li><font size="3">Normality of data: The data should be normally distributed to allow for valid statistical tests to be conducted. If the data is not normally distributed, a non-parametric test may be used instead.</font></li><br>
-  <li><font size="3">Homogeneity of variance: The variance of the data in the control and treatment groups should be roughly equal. If the variances are significantly different, this can affect the results of the statistical tests and make it harder to draw meaningful conclusions.</font></li><br>  
+  <li><font size="3">Homogeneity of variance: The variance of the data in the control and treatment groups should be roughly equal. If the variances are significantly different, this can affect the results of the statistical tests and make it harder to draw meaningful conclusions, therefore properly tests must be carried out.</font></li><br>  
 </ol>
 
 
